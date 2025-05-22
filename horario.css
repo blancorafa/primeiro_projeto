@@ -1,0 +1,16 @@
+div{
+    float: left;
+}
+table{
+    background-color: pink;
+    color: blueviolet;
+    margin-right: 6px;
+    margin-left: 6px; 
+    
+.cascadia-mono-<uniquifier> {
+  font-family: "Cascadia Mono", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+}
